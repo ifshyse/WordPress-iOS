@@ -127,7 +127,7 @@ target 'WordPress' do
     ## ====================
     ##
     pod 'Automattic-Tracks-iOS', :git => 'https://github.com/Automattic/Automattic-Tracks-iOS.git', :tag => '0.2.4'
-    pod 'Gridicons', '0.16'
+    pod 'Gridicons', '0.17'
     pod 'NSURL+IDN', '0.3'
     pod 'WPMediaPicker', '1.3.2'
     ## while PR is in review:
@@ -156,7 +156,7 @@ target 'WordPress' do
         shared_with_networking_pods
         aztec
         wordpress_ui
-        pod 'Gridicons', '0.16'
+        pod 'Gridicons', '0.17'
     end
 
 
@@ -170,7 +170,7 @@ target 'WordPress' do
         shared_with_networking_pods
         aztec
         wordpress_ui
-        pod 'Gridicons', '0.16'
+        pod 'Gridicons', '0.17'
     end
 
 
@@ -210,7 +210,7 @@ target 'WordPressNotificationServiceExtension' do
 
     inherit! :search_paths
 
-    pod 'Gridicons', '0.16'
+    pod 'Gridicons', '0.17'
 
     wordpress_kit
     wordpress_shared
