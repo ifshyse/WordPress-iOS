@@ -228,7 +228,7 @@ DEPENDENCIES:
   - Gifu (= 3.2.0)
   - GiphyCoreSDK (~> 1.4.0)
   - Gridicons (= 0.16)
-  - Gutenberg (from `http://github.com/wordpress-mobile/gutenberg-mobile/`, commit `f8935b4fb386601902e0e38e9e9e7192a27384e0`)
+  - Gutenberg (from `http://github.com/wordpress-mobile/gutenberg-mobile/`, commit `3025712bf4304f81e4caa1315174fbe8194ce0e9`)
   - HockeySDK (= 5.1.4)
   - lottie-ios (= 2.5.0)
   - MGSwipeTableCell (= 1.6.7)
@@ -307,7 +307,7 @@ EXTERNAL SOURCES:
   Folly:
     :podspec: https://raw.githubusercontent.com/wordpress-mobile/gutenberg-mobile/master/react-native-gutenberg-bridge/third-party-podspecs/Folly.podspec.json
   Gutenberg:
-    :commit: f8935b4fb386601902e0e38e9e9e7192a27384e0
+    :commit: 3025712bf4304f81e4caa1315174fbe8194ce0e9
     :git: http://github.com/wordpress-mobile/gutenberg-mobile/
   React:
     :podspec: https://raw.githubusercontent.com/wordpress-mobile/gutenberg-mobile/master/react-native-gutenberg-bridge/third-party-podspecs/React.podspec.json
@@ -333,7 +333,7 @@ CHECKOUT OPTIONS:
     :git: https://github.com/Automattic/Automattic-Tracks-iOS.git
     :tag: 0.2.3
   Gutenberg:
-    :commit: f8935b4fb386601902e0e38e9e9e7192a27384e0
+    :commit: 3025712bf4304f81e4caa1315174fbe8194ce0e9
     :git: http://github.com/wordpress-mobile/gutenberg-mobile/
   react-native-keyboard-aware-scroll-view:
     :git: https://github.com/wordpress-mobile/react-native-keyboard-aware-scroll-view.git
@@ -401,6 +401,6 @@ SPEC CHECKSUMS:
   yoga: f37b1edbd68be803f1dc4d57d40d8a5b277d8e2c
   ZendeskSDK: 44ee00338dd718495f0364369420ae11b389c878
 
-PODFILE CHECKSUM: 15343908d8ae90ed970addb540497f598defda8c
+PODFILE CHECKSUM: fc1d01e0fb394bbc5a7e9f1037b12e18739c528d
 
 COCOAPODS: 1.5.3
